@@ -1,5 +1,5 @@
 import { Phone, MapPin, Mail, MessageCircle, Code } from 'lucide-react';
-import logo from './assets/logos/LDEnglogo.png';
+import logo from './assets/logos/LDenglogo.png';
 
 const Footer = () => {
   return (
