@@ -1,6 +1,6 @@
 // Home.jsx
 import { useRef } from 'react';
-import AboutUs from './AboutUs';
+import AboutUs from './AboutUS';
 import Carousel from './Carousel';
 import CompanyLogosViewer from './Companylogos';
 import Footer from './Footer';
