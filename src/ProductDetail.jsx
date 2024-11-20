@@ -176,7 +176,7 @@ const ProductDetail = () => {
         {
           name: 'Self Priming',
           models: [
-            { name: 'SMSP (Brand: NANTONG)', img: SMSP_Pump_Chemical_SINOMEC },
+            { name: 'SMSP (Brand: SINOMEC)', img: SMSP_Pump_Chemical_SINOMEC },
           ],
         },
         {
