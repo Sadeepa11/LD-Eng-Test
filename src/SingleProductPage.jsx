@@ -1,6 +1,7 @@
 import { useParams, useNavigate } from 'react-router-dom';
 import A_Series_HCP from './assets/imgs/pump_images/A Series - HCP.webp';
 import AF_Series_HCP from './assets/imgs/pump_images/AF Series - HCP.webp';
+import AFC_Series_HCP from './assets/imgs/pump_images/AFC Series - HCP.webp';
 import AHI_Series_APEC from './assets/imgs/pump_images/AHI Series - APEC.webp';
 import AHS_Series_APEC from './assets/imgs/pump_images/AHS Series - APEC.png';
 import AL_Series_HCP from './assets/imgs/pump_images/AL Series - HCP.webp';
@@ -53,6 +54,10 @@ const SingleProductPage = () => {
     'JDSK Series (Brand: APEC)': {
       name: 'JDSK Series (Brand: APEC)',
       image: JDSK_Cutter_Pump_APEC
+    },
+     'AFC Series (Brand: HCP)': {
+      name: 'AFC Series (Brand: HCP)',
+      image: AFC_Series_HCP
     },
     'A Series (Brand: HCP)': {
       name: 'A Series (Brand: HCP)',
