@@ -178,8 +178,8 @@ const SingleProductPage = () => {
       name: 'ELS (Brand: EVERGUSH)',
       image: ELS_Series_EVERGUSH
     },
-    'SMSP (Brand: NANTONG)': {
-      name: 'SMSP (Brand: NANTONG)',
+    'SMSP (Brand: SINOMEC)': {
+      name: 'SMSP (Brand: SINOMEC)',
       image: SMSP_Pump_Chemical_SINOMEC
     },
     'TQ (Brand: WALRUS)': {
