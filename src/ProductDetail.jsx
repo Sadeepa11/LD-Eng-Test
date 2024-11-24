@@ -93,11 +93,9 @@ const ProductDetail = () => {
           name: 'Cutter Pumps',
           models: [
             { name: 'JDSK Series (Brand: APEC)', img: JDSK_Cutter_Pump_APEC },
-<<<<<<< HEAD
+
             { name: 'AFC Series (Brand: HCP)', img: AFC_Series_HCP },
-=======
-            { name: 'AFC Series (Brand: HCP)', img: AFC_Series_HCP},
->>>>>>> 5c38b6af51a9d18d70c788c5676a27c5ce1a9785
+
           ],
         },
         {
