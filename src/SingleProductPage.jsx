@@ -75,10 +75,6 @@ const SingleProductPage = () => {
       image: AFC_Series_HCP,
       path:'https://www.apecpump.com/en/products-content/id/47/'
     },
-     'AFC Series (Brand: HCP)': {
-      name: 'AFC Series (Brand: HCP)',
-      image: AFC_Series_HCP
-    },
     'A Series (Brand: HCP)': {
       name: 'A Series (Brand: HCP)',
       image: A_Series_HCP,
